@@ -6,7 +6,7 @@ export default function App() {
       <div className="relative z-10 w-full max-w-2xl text-center px-6 py-10 rounded-xl bg-white/5 backdrop-blur-lg shadow-2xl border border-white/10">
         {/* Logo */}
         <img
-          src="/favicon.png"
+          src="/Aspire.png"
           alt="Logo AspireCode"
           className="mx-auto w-20 h-20 mb-4 rounded-full border-2 border-white/30 shadow-md"
         />
