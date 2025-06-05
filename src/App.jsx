@@ -6,7 +6,7 @@ export default function App() {
       <div className="relative z-10 w-full max-w-2xl text-center px-6 py-10 rounded-xl bg-white/5 backdrop-blur-lg shadow-2xl border border-white/10">
         {/* Logo */}
         <img
-          src="/public/favicon.png"
+          src="/favicon.png"
           alt="Logo AspireCode"
           className="mx-auto w-20 h-20 mb-4 rounded-full border-2 border-white/30 shadow-md"
         />
@@ -24,7 +24,7 @@ export default function App() {
         </p>
 
         <a
-          href="/application-0c6df8e1-2643-466c-9c67-6156508906e5.apk"
+          href="/toolsmanager.apk"
           download
           className="mt-6 inline-block bg-[#00FFAB] hover:bg-[#06d6a0] text-[#0f172a] font-semibold py-3 px-6 rounded-full shadow-lg transition-all duration-300 ease-in-out hover:scale-105"
         >
